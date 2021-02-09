@@ -24,5 +24,6 @@ RFM Analysis
 
 
 Purchaser workload analysis
+
 ![alt text](https://github.com/manlynn/BI-Development-Project/blob/main/images/purchase.png)
 
