@@ -14,7 +14,16 @@ This solution is for the Business Intelligence Development Project course which 
 
 ## 2.2 Creating measures
 
+7 measures were created for building the RFM model ( pls refer to the final report for the details)
+
+# 3. Visualization
+
+RFM Analysis
+
+![alt text](https://github.com/manlynn/BI-Development-Project/blob/main/images/RMF.png)
 
 
+Purchaser workload analysis
 
+![alt text](https://github.com/manlynn/BI-Development-Project/blob/main/images/purchase.png)
 
