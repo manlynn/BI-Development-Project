@@ -7,7 +7,7 @@ This repository contains BI solutions developed regards different business needs
 * ETL process, visualizations were done through Power BI.
 
 
-# Files Contained
+# Files Contains
 
 1. Sales & Purchase
 2. Logistics & Warehousing
